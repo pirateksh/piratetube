@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf0fac78b9fc36c1c4288cd8d873c149",
+    "revision": "f4af63138ffc00ddc054373bc82a1337",
     "url": "/piratetube/index.html"
   },
   {
-    "revision": "c2e79571b740160a95d0",
-    "url": "/piratetube/static/css/main.1100a2a6.chunk.css"
+    "revision": "3f315cfdf3942e44832e",
+    "url": "/piratetube/static/css/main.e9bc2456.chunk.css"
   },
   {
     "revision": "22bff91d167d58745bf5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/piratetube/static/js/2.5e2d1582.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2e79571b740160a95d0",
-    "url": "/piratetube/static/js/main.27b68e8e.chunk.js"
+    "revision": "3f315cfdf3942e44832e",
+    "url": "/piratetube/static/js/main.8da73309.chunk.js"
   },
   {
     "revision": "2c5a723276d5ad6f0cfd",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/piratetube/precache-manifest.2213d555e56022da236fb480d24aa180.js"
+  "/piratetube/precache-manifest.91643ea2870444f49cea8d50dade7504.js"
 );
 
 self.addEventListener('message', (event) => {
