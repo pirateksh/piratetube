@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/piratetube/static/css/main.1100a2a6.chunk.css",
+    "main.js": "/piratetube/static/js/main.27b68e8e.chunk.js",
+    "main.js.map": "/piratetube/static/js/main.27b68e8e.chunk.js.map",
+    "runtime-main.js": "/piratetube/static/js/runtime-main.a278491e.js",
+    "runtime-main.js.map": "/piratetube/static/js/runtime-main.a278491e.js.map",
+    "static/js/2.5e2d1582.chunk.js": "/piratetube/static/js/2.5e2d1582.chunk.js",
+    "static/js/2.5e2d1582.chunk.js.map": "/piratetube/static/js/2.5e2d1582.chunk.js.map",
+    "index.html": "/piratetube/index.html",
+    "precache-manifest.2213d555e56022da236fb480d24aa180.js": "/piratetube/precache-manifest.2213d555e56022da236fb480d24aa180.js",
+    "service-worker.js": "/piratetube/service-worker.js",
+    "static/css/main.1100a2a6.chunk.css.map": "/piratetube/static/css/main.1100a2a6.chunk.css.map",
+    "static/js/2.5e2d1582.chunk.js.LICENSE.txt": "/piratetube/static/js/2.5e2d1582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a278491e.js",
+    "static/js/2.5e2d1582.chunk.js",
+    "static/css/main.1100a2a6.chunk.css",
+    "static/js/main.27b68e8e.chunk.js"
+  ]
+}
